@@ -1,0 +1,15 @@
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\obj\Debug\net8.0\BookStore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\obj\Debug\net8.0\BookStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\obj\Debug\net8.0\BookStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\obj\Debug\net8.0\BookStore.Infrastructure.AssemblyInfo.cs
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\obj\Debug\net8.0\BookStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\bin\Debug\net8.0\BookStore.Infrastructure.deps.json
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\bin\Debug\net8.0\BookStore.Infrastructure.dll
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\bin\Debug\net8.0\BookStore.Infrastructure.pdb
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\bin\Debug\net8.0\BookStore.Core.dll
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\bin\Debug\net8.0\BookStore.Core.pdb
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\obj\Debug\net8.0\BookStor.0723F12B.Up2Date
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\obj\Debug\net8.0\BookStore.Infrastructure.dll
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\obj\Debug\net8.0\refint\BookStore.Infrastructure.dll
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\obj\Debug\net8.0\BookStore.Infrastructure.pdb
+C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Infrastructure\obj\Debug\net8.0\ref\BookStore.Infrastructure.dll
