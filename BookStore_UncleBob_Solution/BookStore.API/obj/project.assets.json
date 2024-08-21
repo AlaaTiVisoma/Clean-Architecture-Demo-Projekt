@@ -3256,11 +3256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alaa.tilawi\\source\\repos\\BookStore_UncleBob_Solution\\BookStore.API\\BookStore.API.csproj",
+      "projectUniqueName": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\BookStore.API.csproj",
       "projectName": "BookStore.API",
-      "projectPath": "C:\\Users\\alaa.tilawi\\source\\repos\\BookStore_UncleBob_Solution\\BookStore.API\\BookStore.API.csproj",
+      "projectPath": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\BookStore.API.csproj",
       "packagesPath": "C:\\Users\\alaa.tilawi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alaa.tilawi\\source\\repos\\BookStore_UncleBob_Solution\\BookStore.API\\obj\\",
+      "outputPath": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alaa.tilawi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3278,11 +3278,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\alaa.tilawi\\source\\repos\\BookStore_UncleBob_Solution\\BookStore.Application\\BookStore.Application.csproj": {
-              "projectPath": "C:\\Users\\alaa.tilawi\\source\\repos\\BookStore_UncleBob_Solution\\BookStore.Application\\BookStore.Application.csproj"
+            "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\BookStore.Application.csproj": {
+              "projectPath": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\BookStore.Application.csproj"
             },
-            "C:\\Users\\alaa.tilawi\\source\\repos\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\alaa.tilawi\\source\\repos\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj"
+            "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj"
             }
           }
         }

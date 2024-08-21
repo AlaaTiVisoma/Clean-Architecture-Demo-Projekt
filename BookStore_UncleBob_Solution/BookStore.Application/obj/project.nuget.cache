@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8JuX08SN1mY=",
+  "dgSpecHash": "HptoXsE47jY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alaa.tilawi\\source\\repos\\BookStore_UncleBob_Solution\\BookStore.Application\\BookStore.Application.csproj",
+  "projectFilePath": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\BookStore.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alaa.tilawi\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\alaa.tilawi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

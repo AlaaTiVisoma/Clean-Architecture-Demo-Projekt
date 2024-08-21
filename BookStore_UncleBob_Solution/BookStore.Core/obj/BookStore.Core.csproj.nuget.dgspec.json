@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alaa.tilawi\\source\\repos\\BookStore_UncleBob_Solution\\BookStore.Core\\BookStore.Core.csproj": {}
+    "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\BookStore.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alaa.tilawi\\source\\repos\\BookStore_UncleBob_Solution\\BookStore.Core\\BookStore.Core.csproj": {
+    "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\BookStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alaa.tilawi\\source\\repos\\BookStore_UncleBob_Solution\\BookStore.Core\\BookStore.Core.csproj",
+        "projectUniqueName": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\BookStore.Core.csproj",
         "projectName": "BookStore.Core",
-        "projectPath": "C:\\Users\\alaa.tilawi\\source\\repos\\BookStore_UncleBob_Solution\\BookStore.Core\\BookStore.Core.csproj",
+        "projectPath": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\BookStore.Core.csproj",
         "packagesPath": "C:\\Users\\alaa.tilawi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alaa.tilawi\\source\\repos\\BookStore_UncleBob_Solution\\BookStore.Core\\obj\\",
+        "outputPath": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alaa.tilawi\\AppData\\Roaming\\NuGet\\NuGet.Config",
