@@ -9,3 +9,16 @@ C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Core\obj
 C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Core\obj\Debug\net8.0\refint\BookStore.Core.dll
 C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Core\obj\Debug\net8.0\BookStore.Core.pdb
 C:\Users\alaa.tilawi\source\repos\BookStore_UncleBob_Solution\BookStore.Core\obj\Debug\net8.0\ref\BookStore.Core.dll
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Core\bin\Debug\net8.0\BookStore.Core.deps.json
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Core\bin\Debug\net8.0\BookStore.Core.dll
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Core\bin\Debug\net8.0\BookStore.Core.pdb
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Core\obj\Debug\net8.0\BookStore.Core.csproj.AssemblyReference.cache
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Core\obj\Debug\net8.0\BookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Core\obj\Debug\net8.0\BookStore.Core.AssemblyInfoInputs.cache
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Core\obj\Debug\net8.0\BookStore.Core.AssemblyInfo.cs
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Core\obj\Debug\net8.0\BookStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Core\obj\Debug\net8.0\BookStore.Core.sourcelink.json
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Core\obj\Debug\net8.0\BookStore.Core.dll
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Core\obj\Debug\net8.0\refint\BookStore.Core.dll
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Core\obj\Debug\net8.0\BookStore.Core.pdb
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Core\obj\Debug\net8.0\ref\BookStore.Core.dll

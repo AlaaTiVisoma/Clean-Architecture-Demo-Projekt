@@ -8,6 +8,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
 using BookStore.Application.Interfaces;
 using BookStore.Application.UseCases;
+using Microsoft.Extensions.Options;
+using MongoDB.Driver;
 
 namespace BookStore.API
 {
@@ -18,17 +20,31 @@ namespace BookStore.API
             var builder = WebApplication.CreateBuilder(args);
 
             #region Adding
+
+            // Load MongoDB settings from configuration
+            var mongoDbSettings = builder.Services.Configure<MongoDbSettings>(
+                builder.Configuration.GetSection("MongoDbSettings"));
+
+            builder.Services.AddSingleton<MongoDbContext>(sp =>
+            {
+                var settings = sp.GetRequiredService<IOptions<MongoDbSettings>>().Value;
+                return new MongoDbContext(settings.ConnectionString, settings.DatabaseName);
+            });
+
+
             // Configure DbContext
             builder.Services.AddDbContext<BookStoreDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("BookStoreDatabase")));
 
 
             // Register repositories
+            builder.Services.AddScoped<IBookRepositoryMongo, BookRepositoryMongo>();
             builder.Services.AddScoped<IBookRepository, BookRepository>();
             builder.Services.AddScoped<IOrderRepository, OrderRepository>();
             builder.Services.AddScoped<IOrderItemRepository, OrderItemRepository>();
 
             // Register services
+            builder.Services.AddScoped<IBookServiceMongo, BookServiceMongo>();
             builder.Services.AddScoped<IBookService, BookService>();
             builder.Services.AddScoped<IOrderService, OrderService>();
             builder.Services.AddScoped<IOrderItemService, OrderItemService>();
