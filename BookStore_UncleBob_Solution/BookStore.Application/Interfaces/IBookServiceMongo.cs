@@ -1,4 +1,5 @@
-﻿using BookStore.Core.Entities;
+﻿using BookStore.Application.DTOs;
+using BookStore.Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,8 @@ namespace BookStore.Application.Interfaces
 {
     public interface IBookServiceMongo
     {
-        Task<IEnumerable<BookMongo>> GetAllBooksAsync();
+        Task<IEnumerable<BookMongo>> GetBooksByAuthorAsync(string author);
+        Task<IEnumerable<BookMongoCustomerViewsDto>> GetAllBooksAsync();
         Task<BookMongo> GetBookByIdAsync(string id);
         Task<BookMongo> AddBookAsync(BookMongo book);
         Task UpdateBookAsync(string id, BookMongo book);

@@ -1,6 +1,7 @@
 ﻿using BookStore.Application.DTOs;
 using BookStore.Application.Interfaces;
 using BookStore.Application.UseCases;
+using BookStore.Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,7 +34,12 @@ namespace BookStore.Application.Services
             _deleteBookUseCase = deleteBookUseCase;
             _getBookSummaryUseCase = getBookSummaryUseCase;
         }
-        
+
+        public Task<IEnumerable<Book>> GetBooksByAuthorAsync(string author)
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task<IEnumerable<BookCustomerViewsMobileDto>> GetBookSummaryAsync()
         {
             return await _getBookSummaryUseCase.ExecuteAsync();
@@ -63,5 +69,7 @@ namespace BookStore.Application.Services
         {
             await _deleteBookUseCase.ExecuteAsync(id);
         }
+
+    
     }
 }

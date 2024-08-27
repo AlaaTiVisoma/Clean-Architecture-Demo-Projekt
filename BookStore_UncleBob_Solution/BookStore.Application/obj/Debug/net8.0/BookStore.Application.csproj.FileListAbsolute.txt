@@ -29,3 +29,5 @@ C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBo
 C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Application\obj\Debug\net8.0\refint\BookStore.Application.dll
 C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Application\obj\Debug\net8.0\BookStore.Application.pdb
 C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Application\obj\Debug\net8.0\ref\BookStore.Application.dll
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Application\bin\Debug\net8.0\BookStore.Infrastructure.dll
+C:\Users\alaa.tilawi\source\repos\CleanArchitectureDemoProjekt\BookStore_UncleBob_Solution\BookStore.Application\bin\Debug\net8.0\BookStore.Infrastructure.pdb

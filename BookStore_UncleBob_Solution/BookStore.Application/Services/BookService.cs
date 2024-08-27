@@ -13,6 +13,11 @@ namespace BookStore.Application.Services
         private readonly IBookRepository _bookRepository;
         private readonly IMapper _mapper;
 
+        public async Task<IEnumerable<Book>> GetBooksByAuthorAsync(string author)
+        {
+            var books = await _bookRepository.GetBooksByAuthorAsync(author);
+            return books;
+        }
         public BookService(IBookRepository bookRepository, IMapper mapper)
         {
             _bookRepository = bookRepository;
@@ -54,5 +59,6 @@ namespace BookStore.Application.Services
             await _bookRepository.DeleteAsync(id);
         }
 
+      
     }
 }

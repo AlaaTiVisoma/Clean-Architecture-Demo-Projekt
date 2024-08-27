@@ -21,6 +21,14 @@ public class BooksController : ControllerBase
         return Ok(books);
     }
 
+    [HttpGet("BooksByAuthorAsync")]
+    public async Task<ActionResult<IEnumerable<BookMongoCustomerViewsDto>>> GetBooksByAuthorAsync(string author)
+    {
+        var books = await _bookService.GetBooksByAuthorAsync(author);
+        return Ok(books);
+    }
+
+
     [HttpGet("AllBooks")]
     public async Task<ActionResult<IEnumerable<BookCustomerViewsDto>>> GetBooks()
     {

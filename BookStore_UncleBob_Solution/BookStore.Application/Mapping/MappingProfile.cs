@@ -19,6 +19,9 @@ namespace BookStore.Application.Mapping
             CreateMap<Book, BookCustomerViewsMobileDto>();
             // Map for admin use
             CreateMap<Book, BookAdminDto>().ReverseMap();
+
+            CreateMap<BookMongo, BookMongoCustomerViewsDto>()
+     .ForMember(dest => dest.FinalPrice, opt => opt.MapFrom(src => src.DiscountedPrice));
         }
     }
 }

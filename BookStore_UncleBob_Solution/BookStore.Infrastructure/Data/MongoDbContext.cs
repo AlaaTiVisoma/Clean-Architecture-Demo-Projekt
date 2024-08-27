@@ -1,4 +1,5 @@
-﻿using MongoDB.Driver;
+﻿using BookStore.Core.Entities;
+using MongoDB.Driver;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,5 +20,7 @@ namespace BookStore.Infrastructure.Data
         }
 
         public IMongoDatabase Database => _database;
+        public IMongoCollection<BookMongo> Books => _database.GetCollection<BookMongo>("Books");
+
     }
 }

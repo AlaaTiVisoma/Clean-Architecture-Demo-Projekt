@@ -1,22 +1,34 @@
-﻿using BookStore.Application.Interfaces;
+﻿using AutoMapper;
+using BookStore.Application.DTOs;
+using BookStore.Application.Interfaces;
 using BookStore.Core.Entities;
 using BookStore.Core.Interfaces;
 using MongoDB.Bson;
+using MongoDB.Driver;
 using System.Collections.Generic;
-using System.Threading.Tasks;
+using BookStore.Infrastructure.Data;
 
 public class BookServiceMongo : IBookServiceMongo
 {
     private readonly IBookRepositoryMongo _bookRepository;
-
-    public BookServiceMongo(IBookRepositoryMongo bookRepository)
+    private readonly IMapper _mapper;
+    private readonly MongoDbContext _mongoDbContext;
+    public BookServiceMongo(IBookRepositoryMongo bookRepository, IMapper mapper , MongoDbContext mongoDbContext)
     {
         _bookRepository = bookRepository;
+        _mapper = mapper;
+        _mongoDbContext = mongoDbContext;
     }
-
-    public async Task<IEnumerable<BookMongo>> GetAllBooksAsync()
+    public async Task<IEnumerable<BookMongo>> GetBooksByAuthorAsync(string author)
     {
-        return await _bookRepository.GetAllAsync();
+        var filter = Builders<BookMongo>.Filter.Eq(b => b.Author, author);
+        return await _mongoDbContext.Books.Find(filter).ToListAsync();
+    }
+    public async Task<IEnumerable<BookMongoCustomerViewsDto>> GetAllBooksAsync()
+    {
+        //return await _bookRepository.GetAllAsync();
+        var books = await _bookRepository.GetAllAsync();
+        return _mapper.Map<IEnumerable<BookMongoCustomerViewsDto>>(books);
     }
 
     public async Task<BookMongo> GetBookByIdAsync(string id)
@@ -75,4 +87,6 @@ public class BookServiceMongo : IBookServiceMongo
 
         await _bookRepository.DeleteAsync(objectId);
     }
+
+ 
 }

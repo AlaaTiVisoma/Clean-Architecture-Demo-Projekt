@@ -3,6 +3,7 @@ using BookStore.Core.Entities;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using BookStore.Application.Interfaces;
+using BookStore.Application.DTOs;
 
 namespace BookStore.API.Controllers
 {
@@ -11,15 +12,20 @@ namespace BookStore.API.Controllers
     public class BooksMongoController : ControllerBase
     {
         private readonly IBookServiceMongo _bookService;
-
         public BooksMongoController(IBookServiceMongo bookService)
         {
             _bookService = bookService;
         }
 
-        // GET: api/BooksMongo
-        [HttpGet]
-        public async Task<ActionResult<IEnumerable<BookMongo>>> GetBooks()
+        [HttpGet("BooksByAuthorAsync")]
+        public async Task<ActionResult<IEnumerable<BookMongoCustomerViewsDto>>> GetBooksByAuthorAsync(string author)
+        {
+            var books = await _bookService.GetBooksByAuthorAsync(author);
+            return Ok(books);
+        }
+
+        [HttpGet("AllBooks")]
+        public async Task<ActionResult<IEnumerable<BookMongoCustomerViewsDto>>> GetBooks()
         {
             var books = await _bookService.GetAllBooksAsync();
             return Ok(books);

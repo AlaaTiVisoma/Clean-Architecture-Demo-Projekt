@@ -700,6 +700,7 @@
         "dependencies": {
           "AutoMapper": "13.0.1",
           "BookStore.Core": "1.0.0",
+          "BookStore.Infrastructure": "1.0.0",
           "MongoDB.Driver": "2.28.0"
         },
         "runtime": {

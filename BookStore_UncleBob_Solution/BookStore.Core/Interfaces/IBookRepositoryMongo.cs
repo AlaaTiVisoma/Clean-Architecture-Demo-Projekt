@@ -9,6 +9,7 @@ namespace BookStore.Core.Interfaces
 {
     public interface IBookRepositoryMongo : IGenericRepositoryMongo<BookMongo>
     {
+        Task<IEnumerable<BookMongo>> GetBooksByAuthorAsync(string author);
         // Add any specific methods for books if needed
     }
 }
