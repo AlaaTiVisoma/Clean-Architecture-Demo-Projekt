@@ -42,12 +42,15 @@ namespace BookStore.API
             builder.Services.AddScoped<IBookRepository, BookRepository>();
             builder.Services.AddScoped<IOrderRepository, OrderRepository>();
             builder.Services.AddScoped<IOrderItemRepository, OrderItemRepository>();
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+
 
             // Register services
             builder.Services.AddScoped<IBookServiceMongo, BookServiceMongo>();
             builder.Services.AddScoped<IBookService, BookService>();
             builder.Services.AddScoped<IOrderService, OrderService>();
             builder.Services.AddScoped<IOrderItemService, OrderItemService>();
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
 
             // Register Use Cases
             builder.Services.AddScoped<GetAllBooksUseCase>();

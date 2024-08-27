@@ -12,6 +12,6 @@ namespace BookStore.Application.DTOs
         public string Title { get; set; }
         public string Author { get; set; }
         public decimal FinalPrice { get; set; }
-        public DateTime PublishedDate { get; set; }
+        public DateTime? PublishedDate { get; set; }
     }
 }
