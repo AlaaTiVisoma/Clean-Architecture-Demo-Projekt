@@ -13,6 +13,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.Infrastructure", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore.Tests", "BookStore.Tests\BookStore.Tests.csproj", "{D9F985CC-D234-4877-93B7-A2A0C474C715}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notizen", "Notizen", "{9489E939-0012-4324-9155-C2682967EA81}"
+	ProjectSection(SolutionItems) = preProject
+		..\AddingAndIntegratingNewTablesInTheProject.docx = ..\AddingAndIntegratingNewTablesInTheProject.docx
+		..\Projektstruktur_English.docx = ..\Projektstruktur_English.docx
+		..\Projektstruktur_Deutsch.docx = ..\Projektstruktur_Deutsch.docx
+		Schichtenklaerung.txt = Schichtenklaerung.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
