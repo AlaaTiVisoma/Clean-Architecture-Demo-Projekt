@@ -1,0 +1,19 @@
+1. BookStore.API
+Zweck: Dies ist der Einstiegspunkt deiner Anwendung. 
+Es behandelt HTTP-Anfragen und -Antworten und fungiert als Schnittstelle zwischen den Benutzern und der Anwendungslogik.
+
+2. BookStore.Application
+Zweck: Diese Schicht enthält anwendungsspezifische Logik. Sie ist für die Geschäftsregeln der Anwendung und Anwendungsfälle verantwortlich. 
+Sie kommuniziert zwischen der API-Schicht und der Kern-Domänenschicht.
+
+3. BookStore.Core
+Zweck: Dies ist die Kern-Domänenschicht, in der du die Geschäftsregeln und Entitäten deiner Anwendung definierst. 
+Sie sollte unabhängig von spezifischen Frameworks oder Technologien sein.
+
+4. BookStore.Infrastructure
+Zweck: Diese Schicht enthält Implementierungen der Repository-Interfaces, die in der Kernschicht definiert sind. 
+Sie befasst sich mit dem Datenzugriff und externen Abhängigkeiten.
+
+5. BookStore.Tests
+Zweck: Beinhaltet Unit-Tests und andere Tests für die Anwendung. 
+Dies stellt sicher, dass die verschiedenen Schichten deiner Anwendung korrekt funktionieren und hilft, die Codequalität aufrechtzuerhalten.
