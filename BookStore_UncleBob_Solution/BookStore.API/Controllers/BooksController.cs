@@ -62,12 +62,11 @@ public class BooksController : ControllerBase
     [HttpPut("UpdateBookAdmin/{id}")]
     public async Task<ActionResult> UpdateBook(int id, [FromBody] BookAdminDto bookDto)
     {
-        var existingBook = await _bookService.GetBookByIdAsync(id);
-        if (existingBook == null)
+        var success = await _bookService.UpdateBookAsync(id, bookDto);
+        if (!success)
         {
             return NotFound("Book not found.");
         }
-        await _bookService.UpdateBookAsync(bookDto);
         return NoContent();
     }
 

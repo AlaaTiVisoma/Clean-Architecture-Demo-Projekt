@@ -15,7 +15,7 @@ namespace BookStore.Application.Interfaces
         Task<IEnumerable<BookCustomerViewsDto>> GetAllBooksAsync();
         Task<BookCustomerViewsDto> GetBookByIdAsync(int id);
         Task<int> AddBookAsync(BookAdminDto bookDto);
-        Task UpdateBookAsync(BookAdminDto bookDto);
+        Task<bool> UpdateBookAsync(int id , BookAdminDto bookDto);
         Task DeleteBookAsync(int id);
     }
 }

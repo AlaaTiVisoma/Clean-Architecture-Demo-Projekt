@@ -60,9 +60,9 @@ namespace BookStore.Application.Services
             return newBookId;
         }
 
-        public async Task UpdateBookAsync(BookAdminDto bookDto)
+        public async Task<bool> UpdateBookAsync(int id , BookAdminDto bookDto)
         {
-            await _updateBookUseCase.ExecuteAsync(bookDto);
+            return await _updateBookUseCase.ExecuteAsync(id , bookDto);
         }
 
         public async Task DeleteBookAsync(int id)

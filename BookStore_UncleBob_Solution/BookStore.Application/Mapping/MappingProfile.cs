@@ -15,6 +15,7 @@ namespace BookStore.Application.Mapping
             CreateMap<Book, BookCustomerViewsDto>()
            .ForMember(dest => dest.FinalPrice,
                       opt => opt.MapFrom(src => src.IsDiscounted ?? false ? src.DiscountedPrice : src.Price)).ReverseMap();
+
             // Map for mobile use
             CreateMap<Book, BookCustomerViewsMobileDto>();
             // Map for admin use

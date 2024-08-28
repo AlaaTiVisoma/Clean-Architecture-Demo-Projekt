@@ -15,7 +15,7 @@ namespace BookStore.Infrastructure.Data.Repositories
         public async Task<IEnumerable<Book>> GetBooksByAuthorAsync(string author)
         {
             return await _context.Books
-                .Where(b => b.Author == author)
+                .Where(b => b.Author == author) // Error: Should be '==', not '!='
                 .ToListAsync();
         }
     }

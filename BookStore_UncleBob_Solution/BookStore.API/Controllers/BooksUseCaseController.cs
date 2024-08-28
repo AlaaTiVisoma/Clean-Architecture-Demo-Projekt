@@ -64,9 +64,9 @@ public class BooksUseCaseController : ControllerBase
     }
 
     [HttpPut ("UpdateBookAdminUseCase")]
-    public async Task<ActionResult> UpdateBook([FromBody] BookAdminDto bookDto)
+    public async Task<ActionResult> UpdateBook(int id , [FromBody] BookAdminDto bookDto)
     {
-        await _updateBookUseCase.ExecuteAsync(bookDto);
+        await _updateBookUseCase.ExecuteAsync(id , bookDto);
         return NoContent();
     }
 

@@ -30,6 +30,15 @@ namespace BookStore.Core.Entities
 
         public virtual Category? Category { get; set; }
 
-        public virtual ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
+        public virtual ICollection<OrderItem>? OrderItems { get; set; } = new List<OrderItem>();
+
+        public decimal GetDiscountedPrice(decimal discountPercentage)
+        {
+            if (discountPercentage < 0 || discountPercentage > 100)
+            {
+                throw new ArgumentException("Invalid discount percentage");
+            }
+            return Price - (Price * discountPercentage / 100);
+        }
     }
 }

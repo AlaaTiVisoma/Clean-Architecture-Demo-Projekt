@@ -5,6 +5,7 @@ using BookStore.Application.DTOs;
 using BookStore.Application.Interfaces;
 using BookStore.Core.Entities;
 using BookStore.Core.Interfaces;
+using static System.Reflection.Metadata.BlobBuilder;
 
 namespace BookStore.Application.Services
 {
@@ -30,9 +31,16 @@ namespace BookStore.Application.Services
         }
 
         public async Task<IEnumerable<BookCustomerViewsDto>> GetAllBooksAsync()
-        {
+        {            
             var books = await _bookRepository.GetAllAsync();
             return _mapper.Map<IEnumerable<BookCustomerViewsDto>>(books);
+
+            /*
+            // Simulate wrong data by filtering out all books
+             var books = await _bookRepository.GetAllAsync();
+             var filteredBooks = books.Where(b => b.Title != "Book 1");
+             return _mapper.Map<IEnumerable<BookCustomerViewsDto>>(filteredBooks);
+             */
         }
 
         public async Task<BookCustomerViewsDto> GetBookByIdAsync(int id)
@@ -48,10 +56,34 @@ namespace BookStore.Application.Services
             return newBook.Id;
         }
 
-        public async Task UpdateBookAsync(BookAdminDto bookDto)
+        public async Task<bool> UpdateBookAsync(int id , BookAdminDto bookDto)
         {
-            var book = _mapper.Map<Book>(bookDto);
-            await _bookRepository.UpdateAsync(book);
+            try
+            {
+                // Fetch the existing book from the database
+                var existingBook = await _bookRepository.GetByIdAsync(id);
+                if (existingBook == null)
+                {
+                    return false; // Book not found, return false
+                }
+
+                existingBook.Title = bookDto.Title;
+                existingBook.Author = bookDto.Author;
+                existingBook.Price = bookDto.Price;
+                existingBook.Stock = bookDto.Stock;
+                existingBook.NumberOfPages = bookDto.NumberOfPages;
+                existingBook.IsDiscounted = bookDto.IsDiscounted;
+                existingBook.DiscountedPrice = bookDto.DiscountedPrice;
+                existingBook.PublishedDate = bookDto.PublishedDate;
+
+                // Save changes
+                await _bookRepository.UpdateAsync(existingBook);
+                return true; // Indicate that the update was successful
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
         }
 
         public async Task DeleteBookAsync(int id)

@@ -16,13 +16,11 @@ namespace BookStore.Infrastructure.Data
         public virtual DbSet<Order> Orders { get; set; }
 
         public virtual DbSet<OrderItem> OrderItems { get; set; }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseSqlServer("Name=BookStoreDatabase");
-
-        
+    
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+
             modelBuilder.Entity<Book>(entity =>
             {
                 entity.HasKey(e => e.Id).HasName("PK__Books__3214EC07D8094789");
