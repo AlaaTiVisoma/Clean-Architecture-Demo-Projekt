@@ -2,6 +2,8 @@
 using BookStore.Core.Entities;
 using BookStore.Application.DTOs;
 using static System.Runtime.InteropServices.JavaScript.JSType;
+using BookStore.Application.DTOs.Visoma3;
+using BookStore.Core.Entities.Visoma3;
 
 namespace BookStore.Application.Mapping
 {
@@ -24,6 +26,38 @@ namespace BookStore.Application.Mapping
             CreateMap<BookMongo, BookMongoCustomerViewsDto>()
      .ForMember(dest => dest.FinalPrice, opt => opt.MapFrom(src => src.DiscountedPrice));
             CreateMap<Category, CategoryDto>().ReverseMap();
+
+            CreateMap<Ticket, TicketDto>().ReverseMap();
+            CreateMap<TicketData, TicketDataDto>().ReverseMap();
+
+
+
+            CreateMap<TicketTypeDto, TicketType>()
+            .ForMember(dest => dest.Fields, opt => opt.MapFrom(src => src.Fields));
+
+            CreateMap<FieldDto, Field>();
+
+            CreateMap<TicketType, TicketTypeDto>()
+                .ForMember(dest => dest.Fields, opt => opt.MapFrom(src => src.Fields));
+
+            CreateMap<Field, FieldDto>();
+
+
+            /*
+            CreateMap<TicketType, TicketTypeDto>().ReverseMap();
+           // CreateMap<TicketType, TicketTypeDto>()
+           //           .ForMember(dest => dest.Fields, opt => opt.MapFrom(src => src.Fields));
+
+            CreateMap<Field, FieldDto>().ReverseMap();
+            */
+            /*
+            CreateMap<TicketType, TicketTypeDto>();
+            CreateMap<Field, FieldDto>();
+
+            CreateMap<TicketTypeDto, TicketType>();
+            CreateMap<FieldDto, Field>();
+            */
+
         }
     }
 }

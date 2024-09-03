@@ -3,112 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9489E939-0012-4324-9155-C2682967EA81}|Solution Items{9489E939-0012-4324-9155-C2682967EA81}|C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\Schichtenklaerung.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9489E939-0012-4324-9155-C2682967EA81}|Solution Items{9489E939-0012-4324-9155-C2682967EA81}|solutionrelative:Schichtenklaerung.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B2610D1D-2C50-4C6F-A526-6179BE810BD3}|BookStore.API\\BookStore.API.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.api\\controllers\\visoma3\\tickettypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2610D1D-2C50-4C6F-A526-6179BE810BD3}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\controllers\\visoma3\\tickettypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\interfaces\\ibookservicemongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\ibookservicemongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\services\\visoma3\\tickettypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\services\\visoma3\\tickettypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\services\\bookservicemongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\services\\bookservicemongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\interfaces\\visoma3\\itickettypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\visoma3\\itickettypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.core\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F985CC-D234-4877-93B7-A2A0C474C715}|BookStore.Tests\\BookStore.Tests.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.tests\\bookstore.infrastructure.tests\\genericrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F985CC-D234-4877-93B7-A2A0C474C715}|BookStore.Tests\\BookStore.Tests.csproj|solutionrelative:bookstore.tests\\bookstore.infrastructure.tests\\genericrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F985CC-D234-4877-93B7-A2A0C474C715}|BookStore.Tests\\BookStore.Tests.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.tests\\bookstore.infrastructure.tests\\bookrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F985CC-D234-4877-93B7-A2A0C474C715}|BookStore.Tests\\BookStore.Tests.csproj|solutionrelative:bookstore.tests\\bookstore.infrastructure.tests\\bookrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F985CC-D234-4877-93B7-A2A0C474C715}|BookStore.Tests\\BookStore.Tests.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.tests\\bookstore.core.tests\\booktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F985CC-D234-4877-93B7-A2A0C474C715}|BookStore.Tests\\BookStore.Tests.csproj|solutionrelative:bookstore.tests\\bookstore.core.tests\\booktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F985CC-D234-4877-93B7-A2A0C474C715}|BookStore.Tests\\BookStore.Tests.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.tests\\bookstore.application.tests\\bookservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F985CC-D234-4877-93B7-A2A0C474C715}|BookStore.Tests\\BookStore.Tests.csproj|solutionrelative:bookstore.tests\\bookstore.application.tests\\bookservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\dtos\\visoma3\\tickettypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\dtos\\visoma3\\tickettypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2610D1D-2C50-4C6F-A526-6179BE810BD3}|BookStore.API\\BookStore.API.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2610D1D-2C50-4C6F-A526-6179BE810BD3}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2610D1D-2C50-4C6F-A526-6179BE810BD3}|BookStore.API\\BookStore.API.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.api\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2610D1D-2C50-4C6F-A526-6179BE810BD3}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.core\\entities\\visoma3\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\entities\\visoma3\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.infrastructure\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.core\\entities\\visoma3\\tickettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\entities\\visoma3\\tickettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.infrastructure\\data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\dtos\\bookadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\dtos\\bookadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.infrastructure\\data\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\data\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.infrastructure\\data\\repositories\\visoma3\\tickettyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\data\\repositories\\visoma3\\tickettyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.infrastructure\\data\\repositories\\visoma3\\ticketdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\data\\repositories\\visoma3\\ticketdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.infrastructure\\data\\repositories\\visoma3\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\data\\repositories\\visoma3\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.infrastructure\\data\\repositories\\visoma3\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\data\\repositories\\visoma3\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.infrastructure\\data\\repositories\\visoma3\\controlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\data\\repositories\\visoma3\\controlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.infrastructure\\data\\repositories\\visoma3\\genericrepositoryvisoma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\data\\repositories\\visoma3\\genericrepositoryvisoma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.infrastructure\\data\\visomaticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\data\\visomaticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.infrastructure\\data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.core\\bookstore.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\bookstore.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.infrastructure\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.infrastructure\\bookstore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{979FEC4F-6B50-46C6-AC07-BDAA1FC11E05}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\bookstore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.core\\interfaces\\visoma3\\icontrolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\interfaces\\visoma3\\icontrolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.core\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\interfaces\\visoma3\\iticketdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\visoma3\\iticketdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.core\\interfaces\\ibookrepositorymongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{144FE31A-4356-4EC8-809E-4778810B7B75}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\interfaces\\ibookrepositorymongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\services\\visoma3\\ticketdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\services\\visoma3\\ticketdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2610D1D-2C50-4C6F-A526-6179BE810BD3}|BookStore.API\\BookStore.API.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2610D1D-2C50-4C6F-A526-6179BE810BD3}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2610D1D-2C50-4C6F-A526-6179BE810BD3}|BookStore.API\\BookStore.API.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.api\\bookstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2610D1D-2C50-4C6F-A526-6179BE810BD3}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\bookstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2610D1D-2C50-4C6F-A526-6179BE810BD3}|BookStore.API\\BookStore.API.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.api\\controllers\\booksusecasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2610D1D-2C50-4C6F-A526-6179BE810BD3}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\controllers\\booksusecasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\services\\usecasebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\services\\usecasebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\usecases\\updatebookusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\usecases\\updatebookusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.application\\dtos\\bookcustomerviewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA92EA8-4285-46C9-9936-747C063BF403}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\dtos\\bookcustomerviewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2610D1D-2C50-4C6F-A526-6179BE810BD3}|BookStore.API\\BookStore.API.csproj|c:\\users\\alaa.tilawi\\source\\repos\\cleanarchitecturedemoprojekt\\bookstore_unclebob_solution\\bookstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2610D1D-2C50-4C6F-A526-6179BE810BD3}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,227 +106,240 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Schichtenklaerung.txt",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\Schichtenklaerung.txt",
-              "RelativeDocumentMoniker": "Schichtenklaerung.txt",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\Schichtenklaerung.txt",
-              "RelativeToolTip": "Schichtenklaerung.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-28T11:41:32.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IBookServiceMongo.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Interfaces\\IBookServiceMongo.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\IBookServiceMongo.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Interfaces\\IBookServiceMongo.cs",
-              "RelativeToolTip": "BookStore.Application\\Interfaces\\IBookServiceMongo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T11:35:17.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Services\\BookService.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\Services\\BookService.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Services\\BookService.cs",
-              "RelativeToolTip": "BookStore.Application\\Services\\BookService.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAkwA0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T08:37:24.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BookTests.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Tests\\BookStore.Core.Tests\\BookTests.cs",
-              "RelativeDocumentMoniker": "BookStore.Tests\\BookStore.Core.Tests\\BookTests.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Tests\\BookStore.Core.Tests\\BookTests.cs",
-              "RelativeToolTip": "BookStore.Tests\\BookStore.Core.Tests\\BookTests.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T12:48:11.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BookRepositoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Tests\\BookStore.Infrastructure.Tests\\BookRepositoryTests.cs",
-              "RelativeDocumentMoniker": "BookStore.Tests\\BookStore.Infrastructure.Tests\\BookRepositoryTests.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Tests\\BookStore.Infrastructure.Tests\\BookRepositoryTests.cs",
-              "RelativeToolTip": "BookStore.Tests\\BookStore.Infrastructure.Tests\\BookRepositoryTests.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAApwDIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T12:54:18.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GenericRepositoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Tests\\BookStore.Infrastructure.Tests\\GenericRepositoryTests.cs",
-              "RelativeDocumentMoniker": "BookStore.Tests\\BookStore.Infrastructure.Tests\\GenericRepositoryTests.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Tests\\BookStore.Infrastructure.Tests\\GenericRepositoryTests.cs",
-              "RelativeToolTip": "BookStore.Tests\\BookStore.Infrastructure.Tests\\GenericRepositoryTests.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAUwDEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T13:20:25.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Interfaces\\IBookService.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\IBookService.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Interfaces\\IBookService.cs",
-              "RelativeToolTip": "BookStore.Application\\Interfaces\\IBookService.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAwA4AAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T08:29:09.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Interfaces\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "BookStore.Core\\Interfaces\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Interfaces\\IBookRepository.cs",
-              "RelativeToolTip": "BookStore.Core\\Interfaces\\IBookRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T08:49:25.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "BookStore.Core\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "BookStore.Core\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAhAAAA",
+              "Title": "TicketTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\DTOs\\Visoma3\\TicketTypeDto.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Visoma3\\TicketTypeDto.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\DTOs\\Visoma3\\TicketTypeDto.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\Visoma3\\TicketTypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T08:49:36.872Z",
+              "WhenOpened": "2024-09-03T08:53:58.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BookServiceMongo.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Services\\BookServiceMongo.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\Services\\BookServiceMongo.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Services\\BookServiceMongo.cs",
-              "RelativeToolTip": "BookStore.Application\\Services\\BookServiceMongo.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAIAwwBsAAAAEAAAA",
+              "Title": "ITicketTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Interfaces\\Visoma3\\ITicketTypeService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\Visoma3\\ITicketTypeService.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Interfaces\\Visoma3\\ITicketTypeService.cs",
+              "RelativeToolTip": "BookStore.Application\\Interfaces\\Visoma3\\ITicketTypeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T13:07:59.316Z",
+              "WhenOpened": "2024-09-03T08:47:46.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BookServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Tests\\BookStore.Application.Tests\\BookServiceTests.cs",
-              "RelativeDocumentMoniker": "BookStore.Tests\\BookStore.Application.Tests\\BookServiceTests.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Tests\\BookStore.Application.Tests\\BookServiceTests.cs",
-              "RelativeToolTip": "BookStore.Tests\\BookStore.Application.Tests\\BookServiceTests.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAADwv0cAAAAoAAAA",
+              "DocumentIndex": 6,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Entities\\Visoma3\\Field.cs",
+              "RelativeDocumentMoniker": "BookStore.Core\\Entities\\Visoma3\\Field.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Entities\\Visoma3\\Field.cs",
+              "RelativeToolTip": "BookStore.Core\\Entities\\Visoma3\\Field.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T13:07:59.345Z",
+              "WhenOpened": "2024-09-03T08:44:27.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BookStoreDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\BookStoreDbContext.cs",
-              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Data\\BookStoreDbContext.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\BookStoreDbContext.cs",
-              "RelativeToolTip": "BookStore.Infrastructure\\Data\\BookStoreDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "TicketType.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Entities\\Visoma3\\TicketType.cs",
+              "RelativeDocumentMoniker": "BookStore.Core\\Entities\\Visoma3\\TicketType.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Entities\\Visoma3\\TicketType.cs",
+              "RelativeToolTip": "BookStore.Core\\Entities\\Visoma3\\TicketType.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T09:04:26.64Z",
+              "WhenOpened": "2024-09-03T08:42:48.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
+              "Title": "TicketTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Services\\Visoma3\\TicketTypeService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Services\\Visoma3\\TicketTypeService.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Services\\Visoma3\\TicketTypeService.cs*",
+              "RelativeToolTip": "BookStore.Application\\Services\\Visoma3\\TicketTypeService.cs*",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:41:26.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "BookStore.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:38:20.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\Controllers\\Visoma3\\TicketTypeController.cs",
+              "RelativeDocumentMoniker": "BookStore.API\\Controllers\\Visoma3\\TicketTypeController.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\Controllers\\Visoma3\\TicketTypeController.cs*",
+              "RelativeToolTip": "BookStore.API\\Controllers\\Visoma3\\TicketTypeController.cs*",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:35:46.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITicketDataService.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Interfaces\\Visoma3\\ITicketDataService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\Visoma3\\ITicketDataService.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Interfaces\\Visoma3\\ITicketDataService.cs",
+              "RelativeToolTip": "BookStore.Application\\Interfaces\\Visoma3\\ITicketDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:28:39.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\CustomerRepository.cs",
+              "RelativeToolTip": "BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:10:46.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\Program.cs",
               "RelativeDocumentMoniker": "BookStore.API\\Program.cs",
               "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\Program.cs",
               "RelativeToolTip": "BookStore.API\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBgAAAA9AAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T09:35:16.066Z",
+              "WhenOpened": "2024-09-03T07:56:56.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Data\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "BookStore.Infrastructure\\Data\\Repositories\\GenericRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAIAwwCYAAAAJAAAA",
+              "DocumentIndex": 8,
+              "Title": "BookAdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\DTOs\\BookAdminDto.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\BookAdminDto.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\DTOs\\BookAdminDto.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\BookAdminDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T12:53:11.009Z",
+              "WhenOpened": "2024-09-03T08:58:11.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Data\\Repositories\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "BookStore.Infrastructure\\Data\\Repositories\\BookRepository.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAADwvw4AAAA6AAAA",
+              "Title": "ControlRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\ControlRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\ControlRepository.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\ControlRepository.cs",
+              "RelativeToolTip": "BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\ControlRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T12:51:32.541Z",
+              "WhenOpened": "2024-09-03T08:07:06.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepositoryVisoma.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\GenericRepositoryVisoma.cs",
+              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\GenericRepositoryVisoma.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\GenericRepositoryVisoma.cs",
+              "RelativeToolTip": "BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\GenericRepositoryVisoma.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:09:31.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\TicketRepository.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\TicketRepository.cs",
+              "RelativeToolTip": "BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\TicketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:16:53.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\TicketDataRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\TicketDataRepository.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\TicketDataRepository.cs",
+              "RelativeToolTip": "BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\TicketDataRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBEAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:16:35.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\TicketTypeRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\TicketTypeRepository.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\TicketTypeRepository.cs",
+              "RelativeToolTip": "BookStore.Infrastructure\\Data\\Repositories\\Visoma3\\TicketTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:19:42.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "BookStore.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "BookStore.Infrastructure\\BookStore.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj",
-              "RelativeToolTip": "BookStore.Infrastructure\\BookStore.Infrastructure.csproj",
+              "Title": "IControlRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Interfaces\\Visoma3\\IControlRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Core\\Interfaces\\Visoma3\\IControlRepository.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Interfaces\\Visoma3\\IControlRepository.cs",
+              "RelativeToolTip": "BookStore.Core\\Interfaces\\Visoma3\\IControlRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-28T09:36:11.825Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:28:58.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "BookStore.Core",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\BookStore.Core.csproj",
-              "RelativeDocumentMoniker": "BookStore.Core\\BookStore.Core.csproj",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\BookStore.Core.csproj",
-              "RelativeToolTip": "BookStore.Core\\BookStore.Core.csproj",
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Data\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookStore.Infrastructure\\Data\\Repositories\\BookRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-28T09:37:12.385Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:29:10.404Z",
               "EditorCaption": ""
             },
             {
@@ -351,124 +352,72 @@
               "RelativeToolTip": "BookStore.Infrastructure\\Data\\Repositories\\CategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T09:39:00.731Z",
+              "WhenOpened": "2024-09-03T08:29:14.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MongoDbSettings.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\MongoDbSettings.cs",
-              "RelativeDocumentMoniker": "BookStore.API\\MongoDbSettings.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\MongoDbSettings.cs",
-              "RelativeToolTip": "BookStore.API\\MongoDbSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "DocumentIndex": 15,
+              "Title": "VisomaTicketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\VisomaTicketDbContext.cs",
+              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Data\\VisomaTicketDbContext.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Infrastructure\\Data\\VisomaTicketDbContext.cs",
+              "RelativeToolTip": "BookStore.Infrastructure\\Data\\VisomaTicketDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T11:25:49.331Z",
+              "WhenOpened": "2024-09-03T08:04:00.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Entities\\Book.cs",
-              "RelativeDocumentMoniker": "BookStore.Core\\Entities\\Book.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Entities\\Book.cs",
-              "RelativeToolTip": "BookStore.Core\\Entities\\Book.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAmwAgAAAAZAAAA",
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Services\\BookService.cs",
+              "RelativeToolTip": "BookStore.Application\\Services\\BookService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T12:49:37.163Z",
+              "WhenOpened": "2024-09-03T07:56:55.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "IBookRepositoryMongo.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Interfaces\\IBookRepositoryMongo.cs",
-              "RelativeDocumentMoniker": "BookStore.Core\\Interfaces\\IBookRepositoryMongo.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Interfaces\\IBookRepositoryMongo.cs",
-              "RelativeToolTip": "BookStore.Core\\Interfaces\\IBookRepositoryMongo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "TicketDataService.cs",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Services\\Visoma3\\TicketDataService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Services\\Visoma3\\TicketDataService.cs",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Services\\Visoma3\\TicketDataService.cs",
+              "RelativeToolTip": "BookStore.Application\\Services\\Visoma3\\TicketDataService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBkAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T08:49:34.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Interfaces\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "BookStore.Core\\Interfaces\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Core\\Interfaces\\ICategoryRepository.cs",
-              "RelativeToolTip": "BookStore.Core\\Interfaces\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T08:49:35.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UseCaseBookService.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Services\\UseCaseBookService.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\Services\\UseCaseBookService.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\Services\\UseCaseBookService.cs",
-              "RelativeToolTip": "BookStore.Application\\Services\\UseCaseBookService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T08:39:43.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UpdateBookUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\UseCases\\UpdateBookUseCase.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\UseCases\\UpdateBookUseCase.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\UseCases\\UpdateBookUseCase.cs",
-              "RelativeToolTip": "BookStore.Application\\UseCases\\UpdateBookUseCase.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAUwCgAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T08:40:27.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "BookCustomerViewsDto.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\DTOs\\BookCustomerViewsDto.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\BookCustomerViewsDto.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.Application\\DTOs\\BookCustomerViewsDto.cs",
-              "RelativeToolTip": "BookStore.Application\\DTOs\\BookCustomerViewsDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T08:16:48.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "BookStore.API\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "BookStore.API\\Controllers\\BooksController.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAArwEAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T13:07:59.305Z",
+              "WhenOpened": "2024-09-03T08:22:01.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "BooksUseCaseController.cs",
-              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\Controllers\\BooksUseCaseController.cs",
-              "RelativeDocumentMoniker": "BookStore.API\\Controllers\\BooksUseCaseController.cs",
-              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\Controllers\\BooksUseCaseController.cs",
-              "RelativeToolTip": "BookStore.API\\Controllers\\BooksUseCaseController.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAASwEMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T08:42:34.316Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BookStore.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\appsettings.json",
+              "RelativeToolTip": "BookStore.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T08:04:23.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookStore.API",
+              "DocumentMoniker": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\BookStore.API.csproj",
+              "RelativeDocumentMoniker": "BookStore.API\\BookStore.API.csproj",
+              "ToolTip": "C:\\Users\\alaa.tilawi\\source\\repos\\CleanArchitectureDemoProjekt\\BookStore_UncleBob_Solution\\BookStore.API\\BookStore.API.csproj",
+              "RelativeToolTip": "BookStore.API\\BookStore.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T08:05:49.905Z",
               "EditorCaption": ""
             }
           ]
